@@ -1,0 +1,7 @@
+#what is this?
+#guess i'll try to do the thing everyone does
+int main ()
+{
+cout << "hello world" << endl:
+retrun 0
+}
